@@ -1,0 +1,16 @@
+{
+    "users": [
+        {
+            "id": "934943",
+            "blacklisted": ["ticket", "staff"]
+        },
+        {
+            "id": "394929",
+            "blacklisted": ["staff"]
+        },
+        {
+            "id": "494003",
+            "blacklisted": ["ticket"]
+        }
+    ]
+}
